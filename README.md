@@ -100,13 +100,27 @@ The dashboard provides:
 
 
 
-\*Add screenshots of your dashboard in a `screenshots` folder and display them here.\*
+
+
+\## Dashboard Preview
 
 
 
-```markdown
+\### Original Data View
 
-!\[Dashboard Preview](screenshots/dashboard.png)
+!\[Dashboard 1](Screenshot%202026-06-04%20223412.png)
+
+
+
+\### Filtered Data View
+
+!\[Dashboard 2](Screenshot%202026-06-04%20223435.png)
+
+
+
+\### Association Rule Mining Results
+
+!\[Dashboard 3](Screenshot%202026-06-04%20223537.png)
 
 ```
 
