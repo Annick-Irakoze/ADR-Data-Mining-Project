@@ -122,8 +122,6 @@ The dashboard provides:
 
 !\[Dashboard 3](Screenshot%202026-06-04%20223537.png)
 
-```
-
 
 
 \---
